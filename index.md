@@ -2,4 +2,4 @@
 
 ## Access to the file import and integration process
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](screenshots/Capture d’écran 2021-05-04 à 21.44.52.png)
