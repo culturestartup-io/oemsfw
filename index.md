@@ -1,7 +1,5 @@
 ---
-permalink: /about/
 title: My First Page
-layout: default
 ---
 # SAR Integration
 
