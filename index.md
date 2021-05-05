@@ -1,14 +1,15 @@
 SAR Import and Integration User Guide
 ====
 
-SAR files can be uploaded and integrated to wilco. The feature allows to select files and follow up imports. 
+SAR files can be uploaded and integrated to wilco. 
 
 This is the process to import and integrates SAR Files : 
-- You can select the FAR file, then the file is uploaded and checked  
+- You can select the SAR file, then the file is uploaded and checked  
 - Wilco Display Statistics about the file 
-- You can insert Data in the A/C timeline
+- You can confirm insertion of the SAR Data in the A/C timeline
 - You can see the integration with a SAR tag in the timeline
 - You can delete the file
+- You can visualize detailed graph in the wilco dashboard
  
 
 Import and check the SAR Files
